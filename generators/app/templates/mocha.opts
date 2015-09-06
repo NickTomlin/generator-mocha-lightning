@@ -1,0 +1,1 @@
+<%= props.babel ? '--compilers js:babel/register' : '' %>
